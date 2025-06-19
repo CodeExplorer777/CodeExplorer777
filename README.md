@@ -25,7 +25,7 @@
 -- 🎬 [**Netflix Clone**](https://github.com/CodeExplorer777/netflix-clone)  
   Netflix-like movie streaming front-end using **React JS**, with API data fetching, responsive UI, and hover previews.
 
-- 🌦️ [**Weather Detection App**](https://github.com/CodeExplorer777/weather-app)  
+-- 🌦️[**Weather Detection App**](https://github.com/CodeExplorer777/weather-app)  
   Real-time weather dashboard using **HTML/CSS/JS + OpenWeatherMap API**, featuring location-based search and clean UI.
 
   
