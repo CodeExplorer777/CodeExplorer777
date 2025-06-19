@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**CodeExplorer777/CodeExplorer777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I’m Kirtan Rathod (CodeExplorer777)
 
 🎓 Computer Engineering Student | Aspiring Software Developer  
@@ -37,14 +21,14 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 
-- 🔗 [**mi_card2** — Digital Business Card (Flutter)](https://github.com/CodeExplorer777/mi_card2)  
-  Simple contact card UI, useful for mobile-first display.
 
-- 🛠️ [**demo** — Basic HTML Prototype](https://github.com/CodeExplorer777/demo)  
-  Starter web page; needs richer README, assets, and real-world context.
+-- 🎬 [**Netflix Clone**](https://github.com/CodeExplorer777/netflix-clone)  
+  Netflix-like movie streaming front-end using **React JS**, with API data fetching, responsive UI, and hover previews.
 
-- 🌱 *(Potential)* Arduino project — highlight your IoT/dev-hardware skills if strong.
+- 🌦️ [**Weather Detection App**](https://github.com/CodeExplorer777/weather-app)  
+  Real-time weather dashboard using **HTML/CSS/JS + OpenWeatherMap API**, featuring location-based search and clean UI.
 
+  
 ---
 
 ## 📈 GitHub Stats
