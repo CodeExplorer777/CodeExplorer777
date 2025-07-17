@@ -29,11 +29,6 @@
   Real-time weather dashboard using **HTML/CSS/JS + OpenWeatherMap API**, featuring location-based search and clean UI.
 
   
----
-
-## 📈 GitHub Stats
-![Kirtan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeExplorer777&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeExplorer777&layout=compact&theme=tokyonight)
 
 ---
 
